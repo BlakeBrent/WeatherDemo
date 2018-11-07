@@ -1,4 +1,4 @@
-# WeatherDemo
+# WeatherDemo (Kotlin)
 
 Demo application using the open-source "https://openweathermap.org/" api to retrieve the latest weather data.
 
